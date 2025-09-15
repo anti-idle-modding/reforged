@@ -16,4 +16,4 @@ Every feature in Reforged has been extended, with new or reworked content:
 
 <p align="center"><h3><a align="center" href="https://github.com/anti-idle-modding/reforged/releases">Download Reforged</a></h3></p>
 
-<p align="center">[Reforged Wiki](https://aitg.miraheze.org/wiki/Reforged) | [Anti-Idle Discord](
+[Reforged Wiki](https://aitg.miraheze.org/wiki/Reforged) | [Anti-Idle Discord](https://discord.com/channels/305874179142451211/790725394005098577/1237183569328078959)
