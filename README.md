@@ -1,8 +1,8 @@
-# Anti-Idle: Reforged <img align="right" height="48" alt="image" src="https://github.com/user-attachments/assets/b0b7faf1-4b1a-4394-af71-caeac5e74c64" />
+# Reforged <img align="right" height="48" alt="image" src="https://github.com/user-attachments/assets/b0b7faf1-4b1a-4394-af71-caeac5e74c64" />
 
 <img align="right" height="500" alt="image" src="https://github.com/user-attachments/assets/e49b4cbc-5130-48a4-86b8-da960c9abe1a" />
 
-Anti-Idle: Reforged is an unofficial mod for [Anti-Idle: The Game](https://aitg.miraheze.org/wiki/Main_Page). It provides a somewhat better experience across all features and not just Battle Arena, with new and interesting additions, a lot of balances and much more.
+Reforged is an unofficial mod for [Anti-Idle: The Game](https://aitg.miraheze.org/wiki/Main_Page). It provides a somewhat better experience across all features and not just Battle Arena, with new and interesting additions, a lot of balances and much more.
 
 Every feature in Reforged has been extended, with new or reworked content:
 - Progress beyond Tukkonium in [Battle Arena](https://aitg.miraheze.org/wiki/Reforged#Battle_Arena), and fight new enemies and raids! Collect stronger and unique equipment.
